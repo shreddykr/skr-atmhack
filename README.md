@@ -46,7 +46,7 @@
 
 🔧 **Configuration**
 
-- Define ATM models that can be hacked. Roxwood ATMS already included!
+- Define ATM models that can be hacked. Roxwood ATM models already included!
 
 - Customize cooldown durations, notification messages, and cash reward ranges.
 
