@@ -38,7 +38,7 @@
 
 ---
 
-📸 **Preview**
+📸 [**Preview**](https://streamable.com/dzf5m8)
 
 *Screenshots coming soon!*
 
