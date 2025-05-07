@@ -22,7 +22,7 @@
 ---
 
 💡 **Features**
-- [**Interactive Mini-Game**](https://github.com/shreddykr/boii_minigames): Players must complete a challenging mini-game to successfully hack the ATM. Must have Boii Minigames!
+- [**Interactive Mini-Game**](https://github.com/shreddykr/boii_minigames): Players must complete a challenging mini-game to successfully hack the ATM. **Must have Boii Minigames!**
 
 - **Customizable Rewards**: Configure cash rewards for successful hacks.
 
