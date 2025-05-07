@@ -19,7 +19,7 @@ Config.Reward = {
 Config.Minigame = {
     style = 'default', -- Style template
     loading_time = 5000, -- Total time to complete loading sequence in (ms)
-    difficulty = 1, -- Difficulty level
+    difficulty = 1, -- Difficulty level 1-10
     guesses = 5, -- Amount of guesses before failure
     timer = 30000 -- Time allowed for guessing in (ms)
 }
