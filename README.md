@@ -1,4 +1,4 @@
-<h1>🔓 (QB) skr-atmhack - Advanced ATM Hacking System for FiveM 🖥️💰</h1>
+<h1>🔓 (QB) skr-atmhack - Advanced ATM Hacking System for FiveM </h1>
 
 📜 **Overview**
 
