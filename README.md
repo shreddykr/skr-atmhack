@@ -70,7 +70,7 @@
 
 🚀 **Installation Instructions**
 
-1. Download the [latest version](https://github.com/shreddykr/skr-atmhack/releases/latest).
+1. Download the [latest version](https://github.com/shreddykr/skr-atmhack).
 2. Place the `skr-atmhack` folder into your FiveM server's `resources` directory.
 3. Add `ensure skr-atmhack` to your server's `server.cfg` file after all required resources.
 4. Configure the `config.lua` file to suit your server's preferences.
